@@ -1,0 +1,22 @@
+{
+  "planets": [
+    {
+      "mercury": {
+        "colorMap": "textures/planets/mercury/mercurymap.jpg",
+        "bumpMap": "textures/planets/mercury/mercurybump.jpg",
+        "orbit": {
+          "color": "0xff0000",
+          "radius": "50"
+        }
+      },
+      "venus": {
+        "colorMap": "textures/planets/venus/venusmap.jpg",
+        "bumpMap": "textures/planets/venus/venusbump.jpg",
+        "orbit": {
+          "color": "0xff00ff",
+          "radius": "75"
+        }
+      }
+    }
+  ]
+}
